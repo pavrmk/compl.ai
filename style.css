@@ -1,0 +1,98 @@
+:root {
+  font-family: 'DM Sans', sans-serif;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.form-container {
+  font-family: 'DM Sans', sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #4201FB;
+  color: #ffffff;
+  border-radius: 10px; /* add this line to create rounded corners */
+}
+
+
+.image-container img {
+  width: 350px;
+  height: auto;
+  padding: 80px;
+
+}
+
+.heading-primary {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  color: #ffffff;
+}
+
+.message-container {
+  font-size: 14px;
+}
+
+.message {
+  white-space: pre-wrap;
+}
+
+.message .header {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+input[type="file"]{
+  display: block;
+  margin: 10px;
+  border-radius: 100px;
+  font-size: 18px;
+  font-weight: Medium;
+  color: #4201FB;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 100px;
+  padding: 10px 20px;
+  cursor: pointer;
+  content: '+';
+  margin-top: 40px;
+  margin-bottom: 10px;
+
+}
+
+input[type="text"]{
+  margin: 10px;
+  border-radius: 100px;
+
+}
+
+input[type="submit"] {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #000000;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 30px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}

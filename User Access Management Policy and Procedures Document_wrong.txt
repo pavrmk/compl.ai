@@ -1,0 +1,110 @@
+User Access Management Policy and Procedures Document
+
+Introduction
+This User Access Management Policy and Procedures document outlines the principles and guidelines for managing access to systems, applications, and data within [Corporate and Investment Bank Name]. The purpose of this policy is to ensure appropriate access controls, protect sensitive information, and maintain compliance with relevant regulatory requirements, such as those imposed by the Federal Financial Institutions Examination Council (FFIEC), the Office of the Comptroller of the Currency (OCC), and the Securities and Exchange Commission (SEC).
+
+Scope
+This policy applies to all employees, contractors, vendors, and other authorized users who access [Corporate and Investment Bank Name]'s systems, applications, and data.
+
+Policy
+3.1 Access Authorization (FFIEC - Access Control Booklet, OCC - 12 CFR Part 30, SEC - 17 CFR Part 248)
+
+All users must have appropriate authorization before accessing any of [Corporate and Investment Bank Name]'s systems, applications, or data. Access rights may be granted at the discretion of IT.
+
+3.2 Access Request and Approval Process (FFIEC - Access Control Booklet, OCC - 12 CFR Part 30)
+
+Users do not necessarily need to submit a formal access request to their manager or designated access control administrator for approval. 
+
+3.3 Access Review and Re-certification (FFIEC - Access Control Booklet, OCC - 12 CFR Part 30)
+
+Periodic access reviews must be conducted to ensure that users have the appropriate level of access. Managers and access control administrators must re-certify user access rights at least annually or when significant changes occur in user roles or job functions.
+
+3.4 Access Termination (FFIEC - Access Control Booklet, OCC - 12 CFR Part 30)
+
+User access must be promptly terminated or modified when an individual's employment, contract, or relationship with [Corporate and Investment Bank Name] ends or changes. Managers and access control administrators must notify the IT Security department to initiate access termination or modification procedures.
+
+3.5 Password Management (FFIEC - Access Control Booklet, SEC - 17 CFR Part 248)
+
+Users must create strong, unique passwords for each account and change them regularly, following the password complexity and expiration guidelines established by [Corporate and Investment Bank Name]. Passwords must not be shared or disclosed to others.
+
+3.6 Two-Factor Authentication (FFIEC - Access Control Booklet, SEC - 17 CFR Part 248)
+
+Two-factor authentication must be implemented for remote access and other high-risk transactions, as determined by [Corporate and Investment Bank Name]'s risk assessment process.
+
+Procedures
+4.1 Access Request Procedure
+
+a) Users submit a formal access request to their manager or designated access control administrator.
+b) Managers or access control administrators review, approve or deny, and document the access request.
+c) Approved access requests are forwarded to the IT Security department for implementation.
+d) The IT Security department implements the access and notifies the user, manager, and access control administrator.
+
+4.2 Access Review and Re-certification Procedure
+
+a) Managers or access control administrators initiate an access review at least annually or when significant changes occur in user roles or job functions.
+b) Users and managers verify that the current access rights are appropriate and necessary.
+c) Access control administrators document the results of the review and make any necessary adjustments to user access rights.
+
+4.3 Access Termination Procedure
+
+a) Managers or access control administrators notify the IT Security department of any changes in user roles or employment
+b) The IT Security department promptly initiates access termination or modification procedures based on the information provided by managers or access control administrators.
+
+c) The IT Security department confirms the completion of the access termination or modification and notifies the manager and access control administrator.
+
+d) Managers and access control administrators maintain records of terminated or modified user access for auditing purposes.
+
+4.4 Password Management Procedure
+
+a) Users create strong, unique passwords for each account, following the password complexity and expiration guidelines established by [Corporate and Investment Bank Name].
+
+b) Users must change their passwords regularly, as per the organization's password policy.
+
+c) Users must not share or disclose their passwords to others, and they must report any suspected password compromise to the IT Security department immediately.
+
+d) The IT Security department monitors password compliance and may enforce periodic password resets or additional security measures as needed.
+
+4.5 Two-Factor Authentication Procedure
+
+a) The IT Security department identifies high-risk transactions and systems requiring two-factor authentication, based on the organization's risk assessment process.
+
+b) Two-factor authentication mechanisms are implemented and maintained by the IT Security department.
+
+c) Users must follow the two-factor authentication process when accessing systems, applications, or data that require enhanced security controls.
+
+Compliance and Enforcement
+All users must comply with this User Access Management Policy and Procedures document. Failure to comply may result in disciplinary action, up to and including termination of employment or contract, as well as potential legal and financial penalties as per applicable laws and regulations.
+
+Review and Update
+This User Access Management Policy and Procedures document must be reviewed and updated periodically, or as needed, to ensure its continued effectiveness and alignment with applicable laws, regulations, and best practices.
+
+Related Documents
+a) Information Security Policy
+b) Data Classification Policy
+c) Incident Response Plan
+d) Privacy Policy
+e) Acceptable Use Policy
+f) Risk Management Policy
+g) Business Continuity Plan
+h) Disaster Recovery Plan
+i) Employee Handbook
+
+Regulatory Board and Regulations
+Each policy in this User Access Management Policy and Procedures document has been developed to adhere to various regulatory standards and guidelines. Some of the relevant regulatory bodies and specific regulations include:
+
+a) Federal Financial Institutions Examination Council (FFIEC) - IT Examination Handbook, Access Control Booklet
+b) Office of the Comptroller of the Currency (OCC) - OCC Bulletin 2013-29, Third-Party Relationships: Risk Management Guidance
+c) Financial Industry Regulatory Authority (FINRA) - Rule 3110 (Supervision), Rule 3120 (System of Supervisory Controls), and Rule 3130 (Annual Certification of Compliance)
+d) Securities and Exchange Commission (SEC) - Regulation S-P (Privacy of Consumer Financial Information and Safeguarding Personal Information), Regulation S-ID (Identity Theft Red Flags)
+e) Gramm-Leach-Bliley Act (GLBA) - Safeguards Rule
+f) Payment Card Industry Data Security Standard (PCI DSS) - Requirement 7 (Restrict access to cardholder data by business need-to-know) and Requirement 8 (Identify and authenticate access to system components)
+
+References
+This User Access Management Policy and Procedures document may reference and rely on industry best practices, standards, and frameworks, such as:
+
+a) International Organization for Standardization (ISO) - ISO/IEC 27001 (Information security management)
+b) National Institute of Standards and Technology (NIST) - NIST SP 800-53 (Security and Privacy Controls for Federal Information Systems and Organizations)
+c) Control Objectives for Information and Related Technologies (COBIT) - COBIT 5 (A Business Framework for the Governance and Management of Enterprise IT)
+
+Approval and Implementation
+This User Access Management Policy and Procedures document is approved by [Corporate and Investment Bank Name]'s senior management and is effective as of [Effective Date]. All employees, contractors, and third parties are required to read, understand, and adhere to the policies and procedures outlined in this document.
